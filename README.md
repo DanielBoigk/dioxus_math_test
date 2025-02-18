@@ -2,7 +2,7 @@
 Trying to get KaTeX, MathJax, MathML and Typst to run in Dioxus widgets.
 ## Todo:
 
-- [x] Get KaTeX to run
+- [ ] Get KaTeX to run
 - [ ] Get MathJax to run
 - [ ] MathML running
     - [ ] Get TikZ to run 
