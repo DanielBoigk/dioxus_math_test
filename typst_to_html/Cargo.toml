@@ -1,0 +1,9 @@
+[package]
+name = "typst_to_html"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+typst = "0.13.1"
+typst-html = "0.13.1"
+typst-library = "0.13.1"
