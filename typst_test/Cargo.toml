@@ -9,6 +9,7 @@ edition = "2021"
 [dependencies]
 dioxus = { version = "0.6.0", features = ["router"] }
 typst = "0.13.1"
+typst-2-rsx = "0.2.0"
 typst-html = "0.13.1"
 typst-library = "0.13.1"
 
